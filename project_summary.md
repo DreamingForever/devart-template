@@ -10,6 +10,6 @@ I want to believe I will made my dreams come true! I hope.I believe.I dream.
 
 ## Images & Videos
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Example Image](project_images/wallpaper-2995155.jpg?raw=true "Example Image")
 
 
